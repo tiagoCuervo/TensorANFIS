@@ -14,4 +14,4 @@ Known dependencies:
 - Matplotlib (2.2.2)
 
 ## TODO:
-- Implement other membership functions other than Gaussians.
+- Implement membership functions other than Gaussians.
