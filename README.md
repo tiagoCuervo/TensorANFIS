@@ -4,7 +4,7 @@ This is a very simple implementation of the [Adaptive Neuro-Based Fuzzy Inferenc
 ## Code Structure
 
 - `anfis.py`: contains the ANFIS implementation.
-- 'mackey.py': contains an example that uses ANFIS for the prediction of the Mackey Glass series. This example trains the system on 15000 points of the series and plots the real vs. predicted series, the learning curves, and the resulting membership functions after training.
+- `mackey.py`: contains an example that uses ANFIS for the prediction of the Mackey Glass series. This example trains the system on 15000 points of the series and plots the real vs. predicted series, the learning curves, and the resulting membership functions after training.
 
 ## Requirements
 Known dependencies:
