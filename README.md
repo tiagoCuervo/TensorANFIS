@@ -1,4 +1,4 @@
-# FuzzyTensor
+# TensorANFIS
 This is a very simple implementation of the [Adaptive Neuro-Based Fuzzy Inference System (ANFIS)](https://www.dca.ufrn.br/~meneghet/FTP/anfis%2093.pdf) on Tensorflow.
 
 ## Requirements
