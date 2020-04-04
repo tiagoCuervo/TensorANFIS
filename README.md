@@ -4,9 +4,9 @@ This is a very simple implementation of the [Adaptive Neuro-Based Fuzzy Inferenc
 ## Requirements
 Known dependencies:
 - Python (3.5.5)
-- Tensorflow (1.7.0)
-- Numpy (1.14.2)
-- Matplotlib (2.2.2)
+- Tensorflow (1.15.2)
+- Numpy (1.15.2)
+- Matplotlib (3.0.0)
 
 To install dependencies, `cd` to the directory of the repository and run `pip install -r requirements.txt`
 
